@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamSystem", "TeamSystem\TeamSystem.csproj", "{216BDBC4-2865-4944-B9AC-3C5F4565E6B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSystemTests2", "TeamSystemTests2\TeamSystemTests2.csproj", "{EC0A1F71-9B24-4F20-BEBB-11A5B4D3D1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216BDBC4-2865-4944-B9AC-3C5F4565E6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216BDBC4-2865-4944-B9AC-3C5F4565E6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216BDBC4-2865-4944-B9AC-3C5F4565E6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216BDBC4-2865-4944-B9AC-3C5F4565E6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0A1F71-9B24-4F20-BEBB-11A5B4D3D1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0A1F71-9B24-4F20-BEBB-11A5B4D3D1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0A1F71-9B24-4F20-BEBB-11A5B4D3D1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0A1F71-9B24-4F20-BEBB-11A5B4D3D1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2DA7B1-4EAF-47CF-8FD7-DF74BF6FB8F4}
+	EndGlobalSection
+EndGlobal
